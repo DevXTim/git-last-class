@@ -3,7 +3,7 @@ public class FirstClass {
     public static void main(String[] args) {
         printFirstClass();
 
-        printChars("Java is awesome");
+        printChars("Java is awesome and DevX is great!");
         countNumberOfWords("This is actually interesting!");
     }
 
