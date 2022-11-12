@@ -6,4 +6,8 @@ public class CherryClass {
     static void cherryChanges(){
         System.out.println("Changes from Cherry");
     }
+
+static void cherryChanges2(){
+    System.out.println("Second changes from Cherry");
+}
 }
