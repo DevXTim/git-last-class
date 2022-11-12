@@ -17,4 +17,5 @@ public class SecondClass {
     }
 
     //test1 branch change
+    //test2 change
 }
