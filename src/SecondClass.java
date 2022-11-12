@@ -11,4 +11,8 @@ public class SecondClass {
             System.out.println(i);
         }
     }
+
+    public static void doNothing2(){
+
+    }
 }
