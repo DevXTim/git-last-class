@@ -15,4 +15,6 @@ public class SecondClass {
     public static void doNothing2(){
 
     }
+
+    //test1 branch change
 }
