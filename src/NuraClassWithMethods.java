@@ -7,14 +7,14 @@ public class NuraClassWithMethods {
         String bio = sc.nextLine();
 
         int count = countSpaces(bio);
-        if(count>= 10) {
-            System.out.println("Long");
+        if(count>= 20) {  //added more spaces to consider it long
+            System.out.println("Long bio"); // added word bio
         }
-        else if(count>=5){
-            System.out.println("Medium");
+        else if(count>=10){ // same here
+            System.out.println("Medium bio");
         }
         else{
-            System.out.println("Small");
+            System.out.println("Small bio");
         }
     }
 
