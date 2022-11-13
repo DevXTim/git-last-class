@@ -7,6 +7,7 @@ public class ValterClassMethods {
         int number = sc.nextInt();
 
         evenOrOdd(number);
+        System.out.println("Git looks fun!!!");
 
     }
     static void evenOrOdd(int number) {
