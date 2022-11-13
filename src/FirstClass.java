@@ -5,6 +5,7 @@ public class FirstClass {
 
         printChars("Java is awesome and DevX is great!");
         countNumberOfWords("This is actually interesting!");
+        message();
     }
 
     public static void printFirstClass() {
@@ -24,5 +25,8 @@ public class FirstClass {
         }
         System.out.println("\n\nGiven string: "+str);
         System.out.println("Number of words: "+count);
+    }
+    public static void message(){
+        System.out.println("hello world");
     }
 }
