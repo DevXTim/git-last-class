@@ -5,6 +5,7 @@ public class SecondClass {
         System.out.println("You have been hacked! ");
         System.out.println("Attempt 1");
         printNumbers(15);
+        System.out.println("Hello to everyone from Vlad!");
     }
 
     public static void printNumbers(int nums) {
