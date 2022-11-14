@@ -29,4 +29,8 @@ public class FirstClass {
     public static void message(){
         System.out.println("hello world");
     }
+
+    public static void vladsMethod(){
+        System.out.println("Work hard and be consistent!");
+    }
 }
