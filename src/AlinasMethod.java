@@ -5,7 +5,7 @@ public class AlinasMethod {
             Scanner sc = new Scanner(System.in);
             System.out.println("Enter Number");
             int num = sc.nextInt();
-            System.out.println(ChristmasTree(num));;
+            System.out.println(ChristmasTree(num));
         }
         public static boolean ChristmasTree(int num) {
             for (int i = 1; i <= 5; i++) {
