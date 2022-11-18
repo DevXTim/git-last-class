@@ -25,6 +25,7 @@ public class FirstClass {
         }
         System.out.println("\n\nGiven string: "+str);
         System.out.println("Number of words: "+count);
+        System.out.println("Please enter odd numbers till 10");
     }
     public static void message(){
         System.out.println("hello world");
