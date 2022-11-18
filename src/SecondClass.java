@@ -3,7 +3,10 @@ public class SecondClass {
     public static void main(String[] args) {
         System.out.println("Print second class");
         System.out.println("You have been hacked! ");
+        System.out.println("Attempt 1");
         printNumbers(15);
+        System.out.println("Hello to everyone from Vlad!");
+        System.out.println("Have a great life everyone from Chimita");
     }
 
     public static void printNumbers(int nums) {
