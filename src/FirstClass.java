@@ -25,6 +25,7 @@ public class FirstClass {
         }
         System.out.println("\n\nGiven string: "+str);
         System.out.println("Number of words: "+count);
+        System.out.println("Please enter odd numbers till 10");
     }
     public static void message(){
         System.out.println("hello world");
@@ -32,5 +33,9 @@ public class FirstClass {
 
     public static void vladsMethod(){
         System.out.println("Work hard and be consistent!");
+    }
+
+    public static void samielMethod(){
+        System.out.println("Sam will be rich soon!");
     }
 }
