@@ -1,4 +1,5 @@
 
+public class MriaOsokina {
 
     public static void main(String[] args) {
 
