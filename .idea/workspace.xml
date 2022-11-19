@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c650ee5-c954-462a-88a4-0c5f8980d3c1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="2c650ee5-c954-462a-88a4-0c5f8980d3c1" name="Changes" comment="added public class MriaOsokina">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-last-class/src/MriaOsokina.java" beforeDir="false" afterPath="$PROJECT_DIR$/git-last-class/src/MriaOsokina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-last-class/src/MariaOsokinaNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/git-last-class/src/MariaOsokinaNew.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +26,7 @@
     </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/git-last-class" value="bMariaOsokina" />
+        <entry key="$PROJECT_DIR$/git-last-class" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/git-last-class" />
@@ -65,6 +64,21 @@
       <option name="presentableId" value="Default" />
       <updated>1668213935035</updated>
     </task>
+    <task id="LOCAL-00001" summary="added public class MriaOsokina">
+      <created>1668897478190</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668897478190</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added public class MriaOsokina">
+      <created>1668897577386</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668897577386</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,7 +92,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="bMariaOsokina" />
+                        <option value="mOsokinaBranch" />
                       </list>
                     </value>
                   </entry>
@@ -109,5 +123,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/GroupProjects" />
     </ignored-roots>
+    <MESSAGE value="added public class MriaOsokina" />
+    <option name="LAST_COMMIT_MESSAGE" value="added public class MriaOsokina" />
   </component>
 </project>
