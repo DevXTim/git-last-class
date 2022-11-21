@@ -1,5 +1,5 @@
 
-public class MriaOsokina {
+public class MariaOsokina {
 
     public static void main(String[] args) {
 
