@@ -1,6 +1,7 @@
 public class FirstClass {
 
     public static void main(String[] args) {
+
         printFirstClass();
 
         printChars("Java is awesome and DevX is great!");
@@ -33,5 +34,9 @@ public class FirstClass {
 
     public static void vladsMethod(){
         System.out.println("Work hard and be consistent!");
+    }
+
+    public static void samielMethod(){
+        System.out.println("Sam will be rich soon!");
     }
 }
