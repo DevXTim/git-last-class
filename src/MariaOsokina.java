@@ -3,6 +3,6 @@ public class MariaOsokina {
 
     public static void main(String[] args) {
 
-        System.out.println("Hello Everyoune");
+        System.out.println("Hello Everyoune again");
     }
 }
