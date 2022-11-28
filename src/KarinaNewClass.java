@@ -7,6 +7,8 @@ public class KarinaNewClass {
 
             christmasTree();
             newYearWish(name);
+            postscript();
+
         }
         public static void christmasTree(){
             for(int i=1; i<=5; i++){
@@ -34,5 +36,8 @@ public class KarinaNewClass {
             System.out.println("It is your chance to write a beautiful story for yourself.");
             System.out.println("Always remember, YOU ARE AMAZING!");
             System.out.println("Merry Christmas and Happy New Year!");
+        }
+        static void postscript(){
+            System.out.println("Never doubt yourself. Doubt kills more dreams than failure ever will.");
         }
     }
