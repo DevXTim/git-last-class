@@ -31,13 +31,9 @@ public class KarinaNewClass {
             }
         }
         public static void newYearWish(String name){
+            System.out.println();
             System.out.println("Dear " + name + ",");
             System.out.println();
-            System.out.println("        A New Year is like a blank book, and the pen is in your hands.");
-            System.out.println("          It is your chance to write a beautiful story for yourself.");
-            System.out.println("                       Always remember, YOU ARE AMAZING!");
-            System.out.println();
-            System.out.println("                                   Merry Christmas and Happy New Year!");
         }
         static void postscript(){
             System.out.println();
