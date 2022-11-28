@@ -38,6 +38,6 @@ public class KarinaNewClass {
             System.out.println("Merry Christmas and Happy New Year!");
         }
         static void postscript(){
-            System.out.println("Never doubt yourself. Doubt kills more dreams than failure ever will.");
+            System.out.println("P.S. Never doubt yourself. Doubt kills more dreams than failure ever will.");
         }
     }
