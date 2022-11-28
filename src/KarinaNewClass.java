@@ -1,7 +1,12 @@
+import java.util.Scanner;
 public class KarinaNewClass {
         public static void main(String[] args) {
+            Scanner sc=new Scanner(System.in);
+            System.out.println("Please enter your name:");
+            String name=sc.nextLine();
 
             christmasTree();
+            newYearWish(name);
         }
         public static void christmasTree(){
             for(int i=1; i<=5; i++){
@@ -22,5 +27,12 @@ public class KarinaNewClass {
                 }
                 System.out.println();
             }
+        }
+        public static void newYearWish(String name){
+            System.out.println("Dear " + name + ",");
+            System.out.println("A New Year is like a blank book, and the pen is in your hands.");
+            System.out.println("It is your chance to write a beautiful story for yourself.");
+            System.out.println("Always remember, YOU ARE AMAZING!");
+            System.out.println("Merry Christmas and Happy New Year!");
         }
     }
