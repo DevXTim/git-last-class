@@ -5,7 +5,6 @@ public class NewClass {
         System.out.println("Shortcut to create a branch " +
                 "instead of git branch my-session, then git switch my-session");
         System.out.println("-c stands for create");
-        System.out.println("to see changes you made in terminal, try git diff");
 
 
     }
